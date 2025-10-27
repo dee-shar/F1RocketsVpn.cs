@@ -1,5 +1,3 @@
-using System;
-using System.Text;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Security.Cryptography;
