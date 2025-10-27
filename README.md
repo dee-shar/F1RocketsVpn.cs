@@ -3,7 +3,6 @@ Mobile-API for [F1 Rockets VPN](https://play.google.com/store/apps/details?id=co
 
 ## Example
 ```cs
-using System;
 using F1RocketsVpnApi;
 
 namespace Application
